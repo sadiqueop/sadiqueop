@@ -1,0 +1,1 @@
+{"ip":"sadiqueopsmp.aternos.me","name":"sadiqu","port":"26363"}
